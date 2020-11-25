@@ -16,6 +16,4 @@ INPUT_PATH=PATH_WHERE_TO_READ_FROM
 $ sudo apt-get install qpdf
 ```
 ## Windows
-```
-https://stackoverflow.com/questions/41570633/how-to-build-qpdf-on-windows
-```
+[https://stackoverflow.com/questions/41570633/how-to-build-qpdf-on-windows](https://stackoverflow.com/questions/41570633/how-to-build-qpdf-on-windows)
