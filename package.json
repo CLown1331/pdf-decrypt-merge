@@ -14,5 +14,13 @@
     "pdf-merger-js": "^3.0.5",
     "shelljs": "^0.8.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLown1331/pdf-decrypt-merge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CLown1331/pdf-decrypt-merge/issues"
+  },
+  "homepage": "https://github.com/CLown1331/pdf-decrypt-merge#readme"
 }
