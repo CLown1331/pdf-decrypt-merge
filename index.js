@@ -23,7 +23,7 @@ const files = fse.readdirSync(inputPath);
 
 files.forEach((file) => {
     execCommand({
-        command: `qpdf --decrypt --password=${password} ./input/${file} ./decrypted/${file}`, 
+        command: `qpdf --decrypt --password=${password} ${inputPath}${file} ${decryptedPath}${file}`, 
         successMessage: `decrpting ${file} succeded`, 
         failMessage: `decrpting ${file} failed`, 
         successCode: 0
