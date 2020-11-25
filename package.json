@@ -1,7 +1,7 @@
 {
   "name": "pdf-decrypt-merge",
   "version": "1.0.0",
-  "description": "",
+  "description": "``` $ npm install ``` # Create a .env file ``` PASSWORD=YOUR_PASSWORD MERGED_PATH=PATH_WHERE_TO_SAVE_MERGED_FILE DECRYPTED_PATH=PATH_WHERE_TO_SAVE_DECRYPTED_FILE INPUT_PATH=PATH_WHERE_TO_READ_FROM ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,6 @@
     "fs-extra": "^9.0.1",
     "pdf-merger-js": "^3.0.5",
     "shelljs": "^0.8.4"
-  }
+  },
+  "devDependencies": {}
 }
