@@ -12,7 +12,7 @@
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.1",
     "pdf-merger-js": "^3.0.5",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {},
   "repository": {
